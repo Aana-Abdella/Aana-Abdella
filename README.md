@@ -22,9 +22,9 @@
 
 ## About
 
-I am a software engineering student and developer focused on turning ideas into useful software products. I build across Web3 intelligence, AI-powered workflows, automation, and digital platforms while steadily strengthening my foundations in programming, systems, and engineering practice.
+I am a software engineering student and developer focused on turning ideas into practical software products. My work spans Web3 intelligence, AI-powered workflows, automation, and digital platforms, while I continue strengthening my foundations in programming, systems, and engineering practice.
 
-My approach is simple: learn deliberately, build practically, and keep the work visible.
+I approach engineering with deliberate learning, practical building, and continuous iteration.
 
 ## Portfolio
 
@@ -40,13 +40,13 @@ My approach is simple: learn deliberately, build practically, and keep the work 
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Aana-Abdella/web3-intelligence-platform">Web3 Intelligence Platform</a></h3>
-      <p>A software platform focused on Web3 intelligence, data, automation, and useful information for users.</p>
+      <p>A software platform focused on Web3 intelligence, data, automation, and useful information.</p>
       <strong>Area:</strong> Web3 · Data · Product engineering<br>
       <strong>Status:</strong> Building
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Aana-Abdella/AI-Powered-Workflow-Automation-Platform">AI-Powered Workflow Platform</a></h3>
-      <p>An AI and automation platform focused on connecting processes and building intelligent software workflows.</p>
+      <p>An AI and automation platform focused on connecting processes and developing intelligent software workflows.</p>
       <strong>Area:</strong> AI · Automation · Productivity<br>
       <strong>Status:</strong> Building
     </td>
@@ -54,13 +54,13 @@ My approach is simple: learn deliberately, build practically, and keep the work 
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Aana-Abdella/Airdrop-Intelligence-Platform">Airdrop Intelligence Platform</a></h3>
-      <p>A Web3 intelligence platform focused on discovering, organizing, and working with airdrop-related information.</p>
+      <p>A Web3 intelligence platform focused on discovering, organizing, and working with information related to airdrops.</p>
       <strong>Area:</strong> Web3 · Intelligence · Data<br>
       <strong>Status:</strong> Building
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Aana-Abdella/Ethio-Gebeya">Ethio Gebeya</a></h3>
-      <p>A digital and e-commerce platform concept focused on the Ethiopian market.</p>
+      <p>A digital commerce platform concept focused on the Ethiopian market.</p>
       <strong>Area:</strong> Digital platforms · E-commerce<br>
       <strong>Status:</strong> Building
     </td>
@@ -100,7 +100,7 @@ My approach is simple: learn deliberately, build practically, and keep the work 
 
 ## Engineering Learning Journeys
 
-I do not just learn technologies; I document the process of becoming a stronger engineer.
+I document the process of learning technologies and developing stronger engineering fundamentals.
 
 ```text
 🐍 Python engineering
@@ -120,7 +120,7 @@ I do not just learn technologies; I document the process of becoming a stronger 
 
 ### 🐍 Python Learning Journey
 
-A practical, exercise-first repository that keeps examples, experiments, notes, and mistakes visible as part of the learning process.
+A practical, exercise-first repository containing examples, experiments, notes, and iterative learning work.
 
 **Repository:** [python-learning-journey](https://github.com/Aana-Abdella/python-learning-journey)
 
@@ -156,7 +156,7 @@ A structured systems-learning portfolio organized into practical phases, labs, e
 
 ## GitHub Activity
 
-My contribution history and public engineering work are available directly on my GitHub profile.
+My contribution history and public engineering work are available on my GitHub profile.
 
 <p align="center">
   <a href="https://github.com/Aana-Abdella"><strong>View GitHub activity →</strong></a>
