@@ -142,37 +142,41 @@ I document the process of learning technologies and developing stronger engineer
 
 ### 🐍 Python Learning Journey
 
-A practical, exercise-first repository containing examples, experiments, notes, and iterative learning work.
+A practical, exercise-first repository for building Python foundations through examples, exercises, notes, and small projects.
 
 **Repository:** [python-learning-journey](https://github.com/Aana-Abdella/python-learning-journey)
 
-| Stage | Focus | Repository evidence |
+| Stage | Focus | Status |
 | --- | --- | --- |
 | Foundations | Variables, numbers, strings, input, and output | Documented |
 | Control flow | Conditions, decisions, and repetition | Documented |
 | Data structures | Lists, tuples, sets, and dictionaries | Documented |
 | Functions | Parameters, reusable logic, and composition | Documented |
 | Object-oriented Python | Classes, objects, methods, and encapsulation | Documented |
-| Projects | Practical applications and experiments | Repository section present |
-| Next steps | Modules, files, exceptions, testing, and algorithms | Planned in README |
+| Projects | Practical applications and experiments | In progress |
+| Next steps | Modules, files, exceptions, testing, and algorithms | Planned |
+
+→ [View Python Learning Journey](https://github.com/Aana-Abdella/python-learning-journey)
 
 ### 🐧 Linux Mastery Journey
 
-A structured systems-learning portfolio organized into practical phases, labs, exercises, scripts, and projects.
+A structured systems-learning portfolio organized into practical phases, labs, exercises, scripts, and projects. Its roadmap currently spans 14 phases from Linux fundamentals to final projects.
 
 **Repository:** [linux-mastery-journey](https://github.com/Aana-Abdella/linux-mastery-journey)
 
-| Area | Topics | Repository status |
+| Area | Topics | Status |
 | --- | --- | --- |
-| Fundamentals | Linux basics and command-line practice | Phase structured |
-| Filesystem | Filesystem concepts and navigation | Phase structured |
-| File operations | Working with files and directories | Phase structured |
-| Users and permissions | Users, groups, and permissions | Phase structured |
-| Processes | Process management | Phase structured |
-| Shell and Bash | Shell usage and scripting | Phases structured |
-| Packages and networking | Package workflows and network fundamentals | Phases structured |
-| Storage and security | Storage, security, and system practice | Phases structured |
-| Administration and automation | Administration, automation, and final projects | Phases structured |
+| Fundamentals | Linux basics and command-line practice | Structured |
+| Filesystem | Filesystem concepts and navigation | Structured |
+| File operations | Working with files and directories | Structured |
+| Users and permissions | Users, groups, and permissions | Structured |
+| Processes | Process management | Structured |
+| Shell and Bash | Shell usage and scripting | Structured |
+| Packages and networking | Package workflows and network fundamentals | Structured |
+| Storage and security | Storage, security, and system practice | Structured |
+| Administration and automation | Administration, automation, and final projects | Structured |
+
+→ [View Linux Mastery Journey](https://github.com/Aana-Abdella/linux-mastery-journey)
 
 ---
 
