@@ -2,6 +2,8 @@
 
 ### Software Engineer · Full-Stack Developer · Builder
 
+👋 **Hi there — I'm Aanaa Abdella.**
+
 Building practical software across **Web3, AI, automation, and digital platforms**.
 
 ---
@@ -92,12 +94,12 @@ A digital commerce platform concept focused on practical e-commerce use cases fo
 
 ## Currently Building
 
-- Web3 intelligence and data products
-- AI-powered workflows and automation
-- Airdrop intelligence systems
-- Digital platforms for practical use cases
-- Python engineering fundamentals
-- Linux and systems knowledge
+- 🌐 Web3 intelligence and data products
+- 🤖 AI-powered workflows and automation
+- 🪂 Airdrop intelligence systems
+- 🏗️ Digital platforms for practical use cases
+- 🐍 Python engineering fundamentals
+- 🐧 Linux and systems knowledge
 
 ---
 
@@ -132,7 +134,7 @@ A digital commerce platform concept focused on practical e-commerce use cases fo
 
 ### AI · Automation · Web3
 
-`AI Systems` · `Workflow Automation` · `Web3 Intelligence` · `Data Processing`
+🤖 `AI Systems` · ⚙️ `Workflow Automation` · 🌐 `Web3 Intelligence` · 🧠 `Data Processing`
 
 ### Tools & Environment
 
