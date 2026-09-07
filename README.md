@@ -1,167 +1,113 @@
-# Aana Abdella
+# Aanaa Abdella
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/174483431?v=4" alt="Aana Abdella" width="180" style="border-radius:50%; border: 4px solid #0ea5e9;" />
-</p>
+### Software Engineering Student | Developer | Builder
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AanaaAb1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+> **Building software, learning deeply, and turning ideas into products.**
 
-<p align="center">
-  <a href="https://github.com/Aana-Abdella">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;Building+practical+products+with+code" alt="Typing SVG" />
-  </a>
-</p>
+I build practical software while strengthening the engineering fundamentals behind it. My current interests span **Web3 intelligence**, **AI-powered systems**, **workflow automation**, **web applications**, **developer tools**, and **digital platforms**.
 
-<p align="center">
-  <em>Building thoughtful software, scalable systems, and AI-powered experiences.</em>
+<p>
+  <a href="https://aana-developer-platform.vercel.app/"><strong>🌐 Explore my portfolio</strong></a>
+  ·
+  <a href="https://github.com/Aana-Abdella">GitHub</a>
 </p>
 
 ---
 
-## About Me
+## Current Focus
 
-I’m Aana Abdella, a software engineer focused on building modern, reliable, and useful products. My work sits at the intersection of full-stack development, AI, and emerging web technologies.
-
-I enjoy turning ideas into practical software through clean architecture, thoughtful user experience, and strong engineering habits. I build products that are not only functional, but also meaningful and maintainable.
-
-Currently, I’m exploring:
-- Full-stack product development
-- AI integrations and automation workflows
-- Web3 concepts and blockchain-facing applications
-- Strong engineering foundations in system design and backend architecture
-
----
-
-## Technical Skills
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-4A154B?style=for-the-badge)
-
-### AI
-![AI Agents](https://img.shields.io/badge/AI_Agents-5A67D8?style=for-the-badge)
-![LLM Apps](https://img.shields.io/badge/LLM_Applications-0EA5E9?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-10B981?style=for-the-badge)
-
-### Blockchain
-![Web3](https://img.shields.io/badge/Web3-FF6B6B?style=for-the-badge)
-![Wallet Analytics](https://img.shields.io/badge/Wallet_Analytics-6D28D9?style=for-the-badge)
-![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-111827?style=for-the-badge)
+| Area | Focus |
+| --- | --- |
+| 🧠 AI | AI-powered software and intelligent systems |
+| 🌐 Web3 | Intelligence, data, and useful information for users |
+| ⚙️ Automation | Workflow automation and connected processes |
+| 🏗️ Engineering | Full-stack systems and software fundamentals |
 
 ---
 
 ## Featured Projects
 
-### 1. Ethio Gebeya
-A scalable Ethiopian marketplace platform focused on delivering a modern commerce experience with strong backend foundations.
+### Web3 Intelligence Platform
+An exploration of Web3 intelligence, data, and automation designed to turn information into useful product experiences.
 
-- Authentication and authorization
-- Product management
-- Seller dashboard
-- Order management
-- Payment-ready architecture
+**Focus:** Web3 · Data · Automation · Product thinking<br>
+**Status:** Building<br>
+**Repository:** [Add repository URL]
 
-**Tech Stack:** Next.js, NestJS, TypeScript, PostgreSQL, Prisma, Redis, Docker
+### AI-Powered Workflow Platform
+An AI and automation product focused on connecting processes and building more intelligent software workflows.
 
-### 2. Web3 Intelligence Platform
-A blockchain analytics-focused platform for exploring wallet activity, portfolio trends, and opportunity signals.
+**Focus:** AI · Workflow automation · Productivity · Intelligent systems<br>
+**Status:** Building<br>
+**Repository:** [Add repository URL]
 
-- Wallet analysis
-- Portfolio tracking
-- Airdrop eligibility scoring
-- Risk assessment
+### Airdrop Intelligence Platform
+A Web3 intelligence and data platform focused on making airdrop-related information more useful and accessible.
 
-**Tech Stack:** React, TypeScript, Web3 APIs
+**Focus:** Web3 · Intelligence · Data<br>
+**Status:** Building<br>
+**Repository:** [Add repository URL]
 
-### 3. AI Automation Platform
-An AI-powered workflow automation system designed to connect services, trigger actions, and streamline repetitive work.
+### Ethio Gebeya
+A digital commerce platform built around the idea of a modern marketplace for Ethiopia.
 
-- Workflow automation
-- AI integrations
-- Background jobs
-- API connections
-
-**Tech Stack:** Next.js, Node.js, PostgreSQL, Redis
+**Focus:** Digital platforms · E-commerce · Product engineering<br>
+**Status:** Building<br>
+**Repository:** [Add repository URL]
 
 ---
 
-## GitHub Statistics
+## Technology
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aana-Abdella&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aana-Abdella&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aana-Abdella&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Backend & Data
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-111111?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
 ## Learning Journey
 
-I’m continuously strengthening my foundation in:
+I’m strengthening my foundation step by step:
 
-- System Design
-- DevOps
-- Cloud
-- Kubernetes
-- Cybersecurity
-- AI Engineering
-- Smart Contracts
+`Software fundamentals` → `Programming` → `Data structures & algorithms` → `Web development` → `Backend engineering` → `AI & automation` → `Real-world products`
 
 ---
 
-## Goals
+## Connect
 
-In 2026, I aim to:
-
-- Build production-ready applications
-- Contribute to open-source projects
-- Work with global and collaborative teams
-- Continue improving my engineering and product skills
-
----
-
-## Contact
-
-Feel free to reach out for collaboration, projects, or conversations about software and technology.
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aanaabdella8@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Aana_Abdella)
-[![X](https://img.shields.io/badge/X-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/aana_abdella)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Aana-Abdella)
-[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white)](https://t.me/aani_01)
+- [Telegram](https://t.me/aani_01)
+- [X](https://twitter.com/aana_abdella)
+- Discord — [Add Discord URL]
+- [LinkedIn](https://www.linkedin.com/in/Aana_Abdella)
+- [Email](mailto:aanaabdella8@gmail.com)
 
 ---
 
-<p align="center">
-  <em>“Good software is built with clarity, discipline, and a long-term mindset.”</em>
-</p>
+<p align="center"><sub>Builder · Engineer · Learner · Problem solver</sub></p>
