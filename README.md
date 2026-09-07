@@ -1,75 +1,92 @@
 # Aanaa Abdella
 
-### Software Engineer • Builder • Open Source Learner
+### Software Engineer · Full-Stack Developer · Builder
 
-### Hi there, I’m Aanaa.
-
-I build practical software, explore new ideas, and steadily grow as an engineer.
-
-<p align="center">
-  Building software products across <strong>Web3</strong>, <strong>AI</strong>, <strong>automation</strong>, and <strong>digital platforms</strong>.
-</p>
-
-<p align="center">
-  <a href="https://aana-developer-platform.vercel.app/"><strong>Portfolio</strong></a>
-  ·
-  <a href="https://github.com/Aana-Abdella"><strong>GitHub</strong></a>
-  ·
-  <a href="https://twitter.com/aana_abdella"><strong>X</strong></a>
-  ·
-  <a href="https://t.me/aani_01"><strong>Telegram</strong></a>
-  ·
-  <strong>Discord</strong> — add URL
-</p>
+Building practical software across **Web3, AI, automation, and digital platforms**.
 
 ---
 
 ## About
 
-I am a software engineering student and developer focused on turning ideas into practical software products. My work spans Web3 intelligence, AI-powered workflows, automation, and digital platforms, while I continue strengthening my foundations in programming, systems, and engineering practice.
+I'm a software engineering student and developer focused on turning ideas into **practical software products**.
 
-I approach engineering with deliberate learning, practical building, and continuous iteration.
+My work spans:
 
-## Portfolio
+`Full-Stack Development` · `Web3` · `AI` · `Automation` · `Digital Platforms`
 
-<p align="center">
-  <a href="https://aana-developer-platform.vercel.app/"><strong>🌐 Explore my portfolio</strong></a>
-</p>
+I approach engineering through **deliberate learning, practical building, continuous iteration, and real-world problem solving**.
 
 ---
 
-## Featured Projects
+## Portfolio
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Aana-Abdella/web3-intelligence-platform">Web3 Intelligence Platform</a></h3>
-      <p>A software platform focused on Web3 intelligence, data, automation, and useful information.</p>
-      <strong>Area:</strong> Web3 · Data · Product engineering<br>
-      <strong>Status:</strong> Building
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Aana-Abdella/AI-Powered-Workflow-Automation-Platform">AI-Powered Workflow Platform</a></h3>
-      <p>An AI and automation platform focused on connecting processes and developing intelligent software workflows.</p>
-      <strong>Area:</strong> AI · Automation · Productivity<br>
-      <strong>Status:</strong> Building
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Aana-Abdella/Airdrop-Intelligence-Platform">Airdrop Intelligence Platform</a></h3>
-      <p>A Web3 intelligence platform focused on discovering, organizing, and working with information related to airdrops.</p>
-      <strong>Area:</strong> Web3 · Intelligence · Data<br>
-      <strong>Status:</strong> Building
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Aana-Abdella/Ethio-Gebeya">Ethio Gebeya</a></h3>
-      <p>A digital commerce platform concept focused on the Ethiopian market.</p>
-      <strong>Area:</strong> Digital platforms · E-commerce<br>
-      <strong>Status:</strong> Building
-    </td>
-  </tr>
-</table>
+[🌐 **Explore my portfolio**](https://aana-developer-platform.vercel.app/)
+
+---
+
+## Selected Work
+
+### 🌐 [Web3 Intelligence Platform](https://github.com/Aana-Abdella/web3-intelligence-platform)
+
+A full-stack platform focused on Web3 intelligence, wallet analytics, portfolio tracking, and on-chain data.
+
+**Area**
+
+`Web3` `Data` `Automation` `Product Engineering`
+
+**Repository**
+
+[View Web3 Intelligence Platform →](https://github.com/Aana-Abdella/web3-intelligence-platform)
+
+**Status:** Active development
+
+---
+
+### 🤖 [AI-Powered Workflow Platform](https://github.com/Aana-Abdella/AI-Powered-Workflow-Automation-Platform)
+
+An automation platform exploring AI-assisted workflows, process orchestration, and intelligent software automation.
+
+**Area**
+
+`AI` `Automation` `Productivity` `Full-Stack Systems`
+
+**Repository**
+
+[View AI-Powered Workflow Platform →](https://github.com/Aana-Abdella/AI-Powered-Workflow-Automation-Platform)
+
+**Status:** Active development
+
+---
+
+### 🪂 [Airdrop Intelligence Platform](https://github.com/Aana-Abdella/Airdrop-Intelligence-Platform)
+
+A Web3 intelligence system focused on discovering, organizing, and working with airdrop-related information.
+
+**Area**
+
+`Web3` `Intelligence` `Data Processing`
+
+**Repository**
+
+[View Airdrop Intelligence Platform →](https://github.com/Aana-Abdella/Airdrop-Intelligence-Platform)
+
+**Status:** Active development
+
+---
+
+### 🛒 [Ethio Gebeya](https://github.com/Aana-Abdella/Ethio-Gebeya)
+
+A digital commerce platform concept focused on practical e-commerce use cases for the Ethiopian market.
+
+**Area**
+
+`Digital Platforms` `E-Commerce` `Product Engineering`
+
+**Repository**
+
+[View Ethio Gebeya →](https://github.com/Aana-Abdella/Ethio-Gebeya)
+
+**Status:** Active development
 
 ---
 
@@ -81,6 +98,8 @@ I approach engineering with deliberate learning, practical building, and continu
 - Digital platforms for practical use cases
 - Python engineering fundamentals
 - Linux and systems knowledge
+
+---
 
 ## Technology Stack
 
@@ -111,6 +130,10 @@ I approach engineering with deliberate learning, practical building, and continu
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
+### AI · Automation · Web3
+
+`AI Systems` · `Workflow Automation` · `Web3 Intelligence` · `Data Processing`
+
 ### Tools & Environment
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -120,9 +143,27 @@ I approach engineering with deliberate learning, practical building, and continu
 
 ---
 
+## GitHub Engineering Dashboard
+
+I use GitHub to document my engineering journey through:
+
+`Repositories` · `Commits` · `Pull Requests` · `Issues` · `Documentation` · `Contribution Activity`
+
+<p align="center">
+  <a href="https://github.com/Aana-Abdella">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aana-Abdella&theme=github" alt="Aanaa Abdella GitHub contribution activity" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Aana-Abdella"><strong>Explore GitHub Activity →</strong></a>
+</p>
+
+---
+
 ## Engineering Learning Journeys
 
-I document the process of learning technologies and developing stronger engineering fundamentals.
+I document my learning through **structured repositories, practical exercises, experiments, and projects**.
 
 ```text
 🐍 Python engineering
@@ -140,7 +181,7 @@ I document the process of learning technologies and developing stronger engineer
 🏗️ Real-world products
 ```
 
-### 🐍 Python Learning Journey
+### 🐍 Python Engineering
 
 A practical, exercise-first repository for building Python foundations through examples, exercises, notes, and small projects.
 
@@ -158,9 +199,11 @@ A practical, exercise-first repository for building Python foundations through e
 
 → [View Python Learning Journey](https://github.com/Aana-Abdella/python-learning-journey)
 
-### 🐧 Linux Mastery Journey
+---
 
-A structured systems-learning portfolio organized into practical phases, labs, exercises, scripts, and projects. Its roadmap currently spans 14 phases from Linux fundamentals to final projects.
+### 🐧 Linux Mastery
+
+A structured systems-learning portfolio covering Linux fundamentals, filesystem management, permissions, processes, shell scripting, networking, security, administration, and automation.
 
 **Repository:** [linux-mastery-journey](https://github.com/Aana-Abdella/linux-mastery-journey)
 
@@ -172,7 +215,7 @@ A structured systems-learning portfolio organized into practical phases, labs, e
 | Users and permissions | Users, groups, and permissions | Structured |
 | Processes | Process management | Structured |
 | Shell and Bash | Shell usage and scripting | Structured |
-| Packages and networking | Package workflows and network fundamentals | Structured |
+| Packages and networking | Package workflows and networking | Structured |
 | Storage and security | Storage, security, and system practice | Structured |
 | Administration and automation | Administration, automation, and final projects | Structured |
 
@@ -180,43 +223,38 @@ A structured systems-learning portfolio organized into practical phases, labs, e
 
 ---
 
-## GitHub Activity
+## Current Engineering Focus
 
-My contribution history, repository activity, and language distribution are reflected in this live dashboard.
+### 🏗️ BUILD
 
-<p align="center">
-  <a href="https://github.com/Aana-Abdella">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aana-Abdella&theme=github" alt="Aanaa Abdella GitHub contribution activity" width="100%" />
-  </a>
-</p>
+Full-Stack Products · AI Systems · Web3 Platforms · Automation Tools
 
-<p align="center">
-  <a href="https://github.com/Aana-Abdella">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aana-Abdella&theme=github" alt="Aanaa Abdella repository languages" />
-  </a>
-</p>
+### 🧠 LEARN
 
-<p align="center">
-  <a href="https://github.com/Aana-Abdella"><strong>View GitHub activity →</strong></a>
-</p>
+Python · Linux & Systems · Algorithms · DevOps & Cloud
+
+### ⚡ IMPROVE
+
+Architecture · Backend Engineering · Deployment · Engineering Practices
+
+---
 
 ## Engineering Mindset
 
-> Learn → Build → Break → Debug → Improve → Repeat.
+### Learn → Build → Break → Debug → Improve → Repeat
+
+I believe engineering skill is built through **consistent practice, real systems, deliberate experimentation, and continuous improvement**.
 
 ---
 
 ## Connect
 
-- [Telegram](https://t.me/aani_01)
-- [X](https://twitter.com/aana_abdella)
-- Discord — [Add Discord URL]
-- [LinkedIn](https://www.linkedin.com/in/Aana_Abdella)
-- [Email](mailto:aanaabdella8@gmail.com)
+[🌐 Portfolio](https://aana-developer-platform.vercel.app/) · [GitHub](https://github.com/Aana-Abdella) · [X](https://twitter.com/aana_abdella) · [Telegram](https://t.me/aani_01) · [LinkedIn](https://www.linkedin.com/in/Aana_Abdella) · Email: [aanaabdella8@gmail.com](mailto:aanaabdella8@gmail.com)
+
+Discord — [Add Discord URL]
 
 ---
 
 <p align="center">
-  <strong>Building today. Learning every day. Engineering for tomorrow.</strong><br>
-  <a href="https://aana-developer-platform.vercel.app/">Portfolio</a> · <a href="https://github.com/Aana-Abdella">GitHub</a>
+  <strong>Building today. Learning every day. Engineering for tomorrow.</strong>
 </p>
