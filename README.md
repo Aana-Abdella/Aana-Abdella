@@ -5,7 +5,7 @@
         <br>
         <h1><font color="#22D3EE">AANAA ABDELLA</font></h1>
         <p><strong>SOFTWARE ENGINEER · FULL-STACK DEVELOPER · AI &amp; WEB3 BUILDER</strong></p>
-        <p><img src="./assets/code_of_destiny.png" alt="Aanaa Abdella engineering profile: AI engineering, Python, Docker, cloud, Linux, Git, GitHub, and full-stack development" width="100%" /></p>
+        <p><img src="./assets/code_of_destiny.png" alt="Aanaa Abdella engineering profile: AI engineering, Python, Docker, cloud, Linux, Git, GitHub, and full-stack development" width="90%" /></p>
         <p><code>&gt;_ building practical software · learning deeply · shipping consistently</code></p>
         <br>
         <a href="https://aana-developer-platform.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio" /></a>
@@ -37,7 +37,7 @@ My work spans `Full-Stack Development` · `Web3` · `AI` · `Automation` · `Dig
 
 ### 🌐 [Web3 Intelligence Platform](https://github.com/Aana-Abdella/web3-intelligence-platform)
 
-<a href="https://github.com/Aana-Abdella/web3-intelligence-platform"><img src="https://opengraph.githubassets.com/1/Aana-Abdella/web3-intelligence-platform" alt="Web3 Intelligence Platform repository preview" width="84%" /></a>
+<a href="https://github.com/Aana-Abdella/web3-intelligence-platform"><img src="https://opengraph.githubassets.com/1/Aana-Abdella/web3-intelligence-platform" alt="Web3 Intelligence Platform repository preview" width="78%" /></a>
 
 A full-stack Web3 intelligence platform for wallet analytics, portfolio visibility, airdrop research, and on-chain data workflows.
 
@@ -62,7 +62,7 @@ Core platform functionality is documented and implemented; refinement, testing, 
 
 ### 🤖 [AI-Powered Workflow Platform](https://github.com/Aana-Abdella/AI-Powered-Workflow-Automation-Platform)
 
-<a href="https://github.com/Aana-Abdella/AI-Powered-Workflow-Automation-Platform"><img src="https://opengraph.githubassets.com/1/Aana-Abdella/AI-Powered-Workflow-Automation-Platform" alt="AI-Powered Workflow Platform repository preview" width="84%" /></a>
+<a href="https://github.com/Aana-Abdella/AI-Powered-Workflow-Automation-Platform"><img src="https://opengraph.githubassets.com/1/Aana-Abdella/AI-Powered-Workflow-Automation-Platform" alt="AI-Powered Workflow Platform repository preview" width="78%" /></a>
 
 An AI-assisted workflow platform for process orchestration, webhook-driven automation, and asynchronous task execution.
 
@@ -87,7 +87,7 @@ Core workflow execution and AI integration are documented; integration validatio
 
 ### 🪂 [Airdrop Intelligence Platform](https://github.com/Aana-Abdella/Airdrop-Intelligence-Platform)
 
-<a href="https://github.com/Aana-Abdella/Airdrop-Intelligence-Platform"><img src="https://opengraph.githubassets.com/1/Aana-Abdella/Airdrop-Intelligence-Platform" alt="Airdrop Intelligence Platform repository preview" width="84%" /></a>
+<a href="https://github.com/Aana-Abdella/Airdrop-Intelligence-Platform"><img src="https://opengraph.githubassets.com/1/Aana-Abdella/Airdrop-Intelligence-Platform" alt="Airdrop Intelligence Platform repository preview" width="78%" /></a>
 
 A FastAPI and React workspace for organizing airdrop campaigns, profiles, task progress, evidence, and status workflows.
 
@@ -112,7 +112,7 @@ The workflow foundation is documented and implemented; further intelligence, dis
 
 ### 🛒 [Ethio Gebeya](https://github.com/Aana-Abdella/Ethio-Gebeya)
 
-<a href="https://github.com/Aana-Abdella/Ethio-Gebeya"><img src="https://opengraph.githubassets.com/1/Aana-Abdella/Ethio-Gebeya" alt="Ethio Gebeya repository preview" width="84%" /></a>
+<a href="https://github.com/Aana-Abdella/Ethio-Gebeya"><img src="https://opengraph.githubassets.com/1/Aana-Abdella/Ethio-Gebeya" alt="Ethio Gebeya repository preview" width="78%" /></a>
 
 A digital commerce platform concept focused on practical multi-vendor e-commerce use cases for the Ethiopian market.
 
