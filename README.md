@@ -6,7 +6,7 @@
         <h1><font color="#22D3EE">AANAA ABDELLA</font></h1>
         <p><strong>SOFTWARE ENGINEER · FULL-STACK DEVELOPER · AI &amp; WEB3 BUILDER</strong></p>
         <p><img src="./assets/code_of_destiny.png" alt="Aanaa Abdella engineering profile: AI engineering, Python, Docker, cloud, Linux, Git, GitHub, and full-stack development" width="90%" /></p>
-        <p><code>&gt;_ building practical software · learning deeply · shipping consistently</code></p>
+        <p><code>&gt;_ </code></p>
         <br>
         <a href="https://aana-developer-platform.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio" /></a>
         <a href="https://github.com/Aana-Abdella"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" /></a>
@@ -23,9 +23,20 @@
 
 ## About
 
-I'm a software engineering student and developer focused on turning ideas into **practical software products**.
+## About
 
-My work spans `Full-Stack Development` · `Web3` · `AI` · `Automation` · `Digital Platforms`, with an emphasis on deliberate learning, practical building, and continuous iteration.
+I don't want to be known for the number of technologies I use.  
+I want to be known for **what I can build with them**.
+
+I'm a Software Engineering student and builder who turns problems, ideas, and experiments into working systems — from web platforms and automation to AI-powered and decentralized applications.
+
+My approach is simple:
+
+**Understand → Build → Break → Improve → Ship.**
+
+I explore `Full-Stack Engineering` · `AI` · `Web3` · `Automation` · `Cloud & DevOps` not just to collect skills, but to understand how modern systems are designed, connected, deployed, and scaled.
+
+Every project is another step toward becoming the kind of engineer who can take an idea from **zero → architecture → implementation → production**.
 
 ## Portfolio
 
