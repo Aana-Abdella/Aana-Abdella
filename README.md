@@ -4,6 +4,8 @@
                         <td align="center" bgcolor="#0D1117">
                                 <br>
                                 <h1><font color="#22D3EE">AANAA ABDELLA</font></h1>
+                                <p><strong>THE CODE OF DESTINY</strong></p>
+                                <p><img src="./assets/code-of-destiny.png" alt="The Code of Destiny: Python, Docker, AI, LLM, ML, AI Engineering, AWS, cloud, Linux, Git, and GitHub" width="100%" /></p>
                                 <p><strong>SOFTWARE ENGINEER · FULL-STACK DEVELOPER · BUILDER</strong></p>
                                 <p><code>&gt;_ building practical software · learning deeply · shipping consistently</code></p>
                                 <br>
@@ -21,12 +23,6 @@
 ---
 
 ## About
-
-<p align="center"><strong>THE CODE OF DESTINY</strong></p>
-
-<p align="center">
-        <img src="./assets/code-of-destiny.png" alt="The Code of Destiny: Python, Docker, AI, LLM, ML, AI Engineering, AWS, cloud, Linux, Git, and GitHub" width="100%" />
-</p>
 
 I'm a software engineering student and developer focused on turning ideas into **practical software products**.
 
