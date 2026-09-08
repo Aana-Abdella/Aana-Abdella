@@ -1,23 +1,22 @@
 <div align="center">
-        <table>
-                <tr>
-                        <td align="center" bgcolor="#0D1117">
-                                <br>
-                                <h1><font color="#22D3EE">AANAA ABDELLA</font></h1>
-                                <p><strong>THE CODE OF DESTINY</strong></p>
-                                <p><img src="./assets/code-of-destiny.png" alt="The Code of Destiny: Python, Docker, AI, LLM, ML, AI Engineering, AWS, cloud, Linux, Git, and GitHub" width="100%" /></p>
-                                <p><strong>SOFTWARE ENGINEER · FULL-STACK DEVELOPER · BUILDER</strong></p>
-                                <p><code>&gt;_ building practical software · learning deeply · shipping consistently</code></p>
-                                <br>
-                                <a href="https://aana-developer-platform.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio" /></a>
-                                <a href="https://github.com/Aana-Abdella"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" /></a>
-                                <a href="https://t.me/aani_01"><img src="https://img.shields.io/badge/TELEGRAM-111827?style=for-the-badge&logo=telegram&logoColor=22D3EE" alt="Telegram" /></a>
-                                <a href="https://twitter.com/aana_abdella"><img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=22D3EE" alt="X" /></a>
-                                <img src="https://img.shields.io/badge/DISCORD-111827?style=for-the-badge&logo=discord&logoColor=22D3EE" alt="Discord — URL not provided" />
-                                <br><br>
-                        </td>
-                </tr>
-        </table>
+  <table>
+    <tr>
+      <td align="center" bgcolor="#0D1117">
+        <br>
+        <h1><font color="#22D3EE">AANAA ABDELLA</font></h1>
+        <p><strong>SOFTWARE ENGINEER · FULL-STACK DEVELOPER · AI &amp; WEB3 BUILDER</strong></p>
+        <p><img src="./assets/code-of-destiny.png" alt="Engineering technologies including Python, Docker, AI, LLM, ML, AWS, Linux, Git, and GitHub" width="100%" /></p>
+        <p><code>&gt;_ building practical software · learning deeply · shipping consistently</code></p>
+        <br>
+        <a href="https://aana-developer-platform.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio" /></a>
+        <a href="https://github.com/Aana-Abdella"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" /></a>
+        <a href="https://twitter.com/aana_abdella"><img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=22D3EE" alt="X" /></a>
+        <a href="https://t.me/aani_01"><img src="https://img.shields.io/badge/TELEGRAM-111827?style=for-the-badge&logo=telegram&logoColor=22D3EE" alt="Telegram" /></a>
+        <a href="https://www.linkedin.com/in/Aana_Abdella"><img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" /></a>
+        <br><br>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -26,13 +25,7 @@
 
 I'm a software engineering student and developer focused on turning ideas into **practical software products**.
 
-My work spans:
-
-`Full-Stack Development` · `Web3` · `AI` · `Automation` · `Digital Platforms`
-
-I approach engineering through **deliberate learning, practical building, continuous iteration, and real-world problem solving**.
-
----
+My work spans `Full-Stack Development` · `Web3` · `AI` · `Automation` · `Digital Platforms`, with an emphasis on deliberate learning, practical building, and continuous iteration.
 
 ## Portfolio
 
@@ -44,81 +37,117 @@ I approach engineering through **deliberate learning, practical building, contin
 
 ### 🌐 [Web3 Intelligence Platform](https://github.com/Aana-Abdella/web3-intelligence-platform)
 
-<a href="https://github.com/Aana-Abdella/web3-intelligence-platform">
-        <img src="https://opengraph.githubassets.com/1/Aana-Abdella/web3-intelligence-platform" alt="Web3 Intelligence Platform repository preview" width="84%" />
-</a>
+<a href="https://github.com/Aana-Abdella/web3-intelligence-platform"><img src="https://opengraph.githubassets.com/1/Aana-Abdella/web3-intelligence-platform" alt="Web3 Intelligence Platform repository preview" width="84%" /></a>
 
-A full-stack platform focused on Web3 intelligence, wallet analytics, portfolio tracking, and on-chain data.
+A full-stack Web3 intelligence platform for wallet analytics, portfolio visibility, airdrop research, and on-chain data workflows.
 
-**Area**
+**Engineering outcomes**
 
-`Web3` `Data` `Automation` `Product Engineering`
+- **Built:** Next.js frontend, NestJS API, shared TypeScript packages, Prisma/PostgreSQL persistence, and Redis caching.
+- **Built:** Wallet search and validation, wallet overview, portfolio data, airdrop eligibility scoring, wallet-auth endpoints, and Swagger API documentation.
+- **Built:** Docker Compose infrastructure for the frontend, backend, PostgreSQL, and Redis services.
+- **Exploring:** NFT indexing, transaction history, risk analysis, AI wallet insights, notifications, and team workflows.
 
-**Repository**
+**Stack:** `Next.js` `NestJS` `TypeScript` `Prisma` `PostgreSQL` `Redis` `Docker` `Viem`
 
-[View Web3 Intelligence Platform →](https://github.com/Aana-Abdella/web3-intelligence-platform)
+**MVP Progress — 80%**
 
-**Status:** Active development
+`████████████████░░░░`
+
+Core platform functionality is documented and implemented; refinement, testing, and additional intelligence modules remain.
+
+[View repository →](https://github.com/Aana-Abdella/web3-intelligence-platform)
 
 ---
 
 ### 🤖 [AI-Powered Workflow Platform](https://github.com/Aana-Abdella/AI-Powered-Workflow-Automation-Platform)
 
-<a href="https://github.com/Aana-Abdella/AI-Powered-Workflow-Automation-Platform">
-        <img src="https://opengraph.githubassets.com/1/Aana-Abdella/AI-Powered-Workflow-Automation-Platform" alt="AI-Powered Workflow Platform repository preview" width="84%" />
-</a>
+<a href="https://github.com/Aana-Abdella/AI-Powered-Workflow-Automation-Platform"><img src="https://opengraph.githubassets.com/1/Aana-Abdella/AI-Powered-Workflow-Automation-Platform" alt="AI-Powered Workflow Platform repository preview" width="84%" /></a>
 
-An automation platform exploring AI-assisted workflows, process orchestration, and intelligent software automation.
+An AI-assisted workflow platform for process orchestration, webhook-driven automation, and asynchronous task execution.
 
-**Area**
+**Engineering outcomes**
 
-`AI` `Automation` `Productivity` `Full-Stack Systems`
+- **Built:** Next.js dashboard with FastAPI services, PostgreSQL persistence, Redis queues, and Celery workers.
+- **Built:** JWT authentication, multi-tenant workflow isolation, RBAC, execution logs, usage monitoring, and billing simulation.
+- **Built:** Webhook-triggered AI summarization with OpenAI and a fallback summarizer, plus Dockerized local orchestration.
+- **Validating:** Integration behavior, deployment configuration, and test coverage across the workflow lifecycle.
 
-**Repository**
+**Stack:** `Next.js` `React` `TypeScript` `FastAPI` `PostgreSQL` `Redis` `Celery` `Docker` `OpenAI API`
 
-[View AI-Powered Workflow Platform →](https://github.com/Aana-Abdella/AI-Powered-Workflow-Automation-Platform)
+**MVP Progress — 70%**
 
-**Status:** Active development
+`██████████████░░░░░░`
+
+Core workflow execution and AI integration are documented; integration validation and broader testing remain.
+
+[View repository →](https://github.com/Aana-Abdella/AI-Powered-Workflow-Automation-Platform)
 
 ---
 
 ### 🪂 [Airdrop Intelligence Platform](https://github.com/Aana-Abdella/Airdrop-Intelligence-Platform)
 
-<a href="https://github.com/Aana-Abdella/Airdrop-Intelligence-Platform">
-        <img src="https://opengraph.githubassets.com/1/Aana-Abdella/Airdrop-Intelligence-Platform" alt="Airdrop Intelligence Platform repository preview" width="84%" />
-</a>
+<a href="https://github.com/Aana-Abdella/Airdrop-Intelligence-Platform"><img src="https://opengraph.githubassets.com/1/Aana-Abdella/Airdrop-Intelligence-Platform" alt="Airdrop Intelligence Platform repository preview" width="84%" /></a>
 
-A Web3 intelligence system focused on discovering, organizing, and working with airdrop-related information.
+A FastAPI and React workspace for organizing airdrop campaigns, profiles, task progress, evidence, and status workflows.
 
-**Area**
+**Engineering outcomes**
 
-`Web3` `Intelligence` `Data Processing`
+- **Built:** JWT authentication, bcrypt password hashing, user-scoped profiles, and campaign lifecycle states.
+- **Built:** Campaign and task tracking, screenshot-backed progress evidence, dashboard summaries, and status notifications.
+- **Built:** FastAPI backend, React/Vite frontend, SQLite persistence, documentation, deployment configuration, and test/build commands.
+- **Scope:** Wallet fields are metadata; the repository does not claim wallet connection, transaction signing, or guaranteed live multi-chain feeds.
 
-**Repository**
+**Stack:** `Python` `FastAPI` `React` `Vite` `SQLite` `JWT` `Docker`
 
-[View Airdrop Intelligence Platform →](https://github.com/Aana-Abdella/Airdrop-Intelligence-Platform)
+**MVP Progress — 60%**
 
-**Status:** Active development
+`████████████░░░░░░░░`
+
+The workflow foundation is documented and implemented; further intelligence, discovery, and operational capabilities remain in development.
+
+[View repository →](https://github.com/Aana-Abdella/Airdrop-Intelligence-Platform)
 
 ---
 
 ### 🛒 [Ethio Gebeya](https://github.com/Aana-Abdella/Ethio-Gebeya)
 
-<a href="https://github.com/Aana-Abdella/Ethio-Gebeya">
-        <img src="https://opengraph.githubassets.com/1/Aana-Abdella/Ethio-Gebeya" alt="Ethio Gebeya repository preview" width="84%" />
-</a>
+<a href="https://github.com/Aana-Abdella/Ethio-Gebeya"><img src="https://opengraph.githubassets.com/1/Aana-Abdella/Ethio-Gebeya" alt="Ethio Gebeya repository preview" width="84%" /></a>
 
-A digital commerce platform concept focused on practical e-commerce use cases for the Ethiopian market.
+A digital commerce platform concept focused on practical multi-vendor e-commerce use cases for the Ethiopian market.
 
-**Area**
+**Engineering outcomes**
 
-`Digital Platforms` `E-Commerce` `Product Engineering`
+- **Designed:** Turborepo structure with Next.js web, NestJS API, and shared Prisma/PostgreSQL database packages.
+- **Designed:** JWT authentication, role-based access control, product catalog, seller workflows, checkout, logistics, and audit modules.
+- **Planned architecture:** Ethiopian payment integrations with Chapa and Telebirr, order workflows, fleet dispatch, and governance surfaces.
+- **Current direction:** Converting the documented platform architecture into focused, testable product increments.
 
-**Repository**
+**Stack:** `Next.js` `NestJS` `TypeScript` `Prisma` `PostgreSQL` `Turborepo`
 
-[View Ethio Gebeya →](https://github.com/Aana-Abdella/Ethio-Gebeya)
+**MVP Progress — 50%**
 
-**Status:** Active development
+`██████████░░░░░░░░░░`
+
+The architecture and major platform foundations are documented; feature implementation and validation continue.
+
+[View repository →](https://github.com/Aana-Abdella/Ethio-Gebeya)
+
+---
+
+### MVP Progress Definition
+
+`MVP Progress = completed MVP scope ÷ planned MVP scope × 100`
+
+| Milestone | Definition |
+| --- | --- |
+| 0–20% | Idea, repository, requirements, and architecture |
+| 30–40% | Database foundation, APIs, and business logic |
+| 50–60% | Main frontend and frontend-backend integration |
+| 70–80% | End-to-end features, testing, validation, and optimization |
+| 90–100% | Deployment preparation, security, and planned MVP release |
+
+Progress reflects planned MVP scope, not lines of code or arbitrary activity.
 
 ---
 
@@ -165,7 +194,7 @@ A digital commerce platform concept focused on practical e-commerce use cases fo
 
 ### AI · Automation · Web3
 
-🤖 `AI Systems` · ⚙️ `Workflow Automation` · 🌐 `Web3 Intelligence` · 🧠 `Data Processing`
+`OpenAI` · `Ollama` · `n8n` · `Wagmi` · `Viem` · `AI Systems` · `Workflow Automation`
 
 ### Tools & Environment
 
@@ -178,9 +207,7 @@ A digital commerce platform concept focused on practical e-commerce use cases fo
 
 ## GitHub Engineering Dashboard
 
-I use GitHub to document my engineering journey through:
-
-`Repositories` · `Commits` · `Pull Requests` · `Issues` · `Documentation` · `Contribution Activity`
+GitHub is where I track the engineering journey through `Repositories` · `Commits` · `Pull Requests` · `Issues` · `Documentation` · `Contribution Activity`.
 
 <p align="center">
   <a href="https://github.com/Aana-Abdella">
@@ -189,6 +216,9 @@ I use GitHub to document my engineering journey through:
 </p>
 
 <p align="center">
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aana-Abdella&theme=github">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aana-Abdella&theme=github" alt="Aanaa Abdella repository language distribution" />
+  </a>
   <a href="https://github.com/Aana-Abdella"><strong>Explore GitHub Activity →</strong></a>
 </p>
 
@@ -196,23 +226,7 @@ I use GitHub to document my engineering journey through:
 
 ## Engineering Learning Journeys
 
-I document my learning through **structured repositories, practical exercises, experiments, and projects**.
-
-```text
-🐍 Python engineering
-        ↓
-🐧 Linux and systems
-        ↓
-🧠 Data structures and algorithms
-        ↓
-🌐 Web development
-        ↓
-⚙️ Backend engineering
-        ↓
-🤖 AI and automation
-        ↓
-🏗️ Real-world products
-```
+I document my learning through structured repositories, practical exercises, experiments, and projects.
 
 ### 🐍 Python Engineering
 
@@ -231,8 +245,6 @@ A practical, exercise-first repository for building Python foundations through e
 | Next steps | Modules, files, exceptions, testing, and algorithms | ⏳ Planned |
 
 → [View Python Learning Journey](https://github.com/Aana-Abdella/python-learning-journey)
-
----
 
 ### 🐧 Linux Mastery
 
@@ -258,25 +270,19 @@ A structured systems-learning portfolio covering Linux fundamentals, filesystem 
 
 ## Current Engineering Focus
 
-### 🏗️ BUILD
-
-Full-Stack Products · AI Systems · Web3 Platforms · Automation Tools
-
-### 🧠 LEARN
-
-Python · Linux & Systems · Algorithms · DevOps & Cloud
-
-### ⚡ IMPROVE
-
-Architecture · Backend Engineering · Deployment · Engineering Practices
+<table>
+  <tr>
+    <td width="33%" valign="top"><strong>🏗️ BUILD</strong><br><br>Full-Stack Products<br>AI Systems<br>Web3 Platforms<br>Automation Tools</td>
+    <td width="33%" valign="top"><strong>🧠 LEARN</strong><br><br>Python<br>Linux &amp; Systems<br>Algorithms<br>DevOps &amp; Cloud</td>
+    <td width="33%" valign="top"><strong>⚡ IMPROVE</strong><br><br>Architecture<br>Backend Engineering<br>Deployment<br>Engineering Practices</td>
+  </tr>
+</table>
 
 ---
 
 ## Engineering Mindset
 
 ### Learn → Build → Break → Debug → Improve → Repeat
-
-I believe engineering skill is built through **consistent practice, real systems, deliberate experimentation, and continuous improvement**.
 
 ---
 
@@ -287,11 +293,8 @@ I believe engineering skill is built through **consistent practice, real systems
 <a href="https://twitter.com/aana_abdella"><img src="https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://t.me/aani_01"><img src="https://img.shields.io/badge/Telegram-111111?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="https://www.linkedin.com/in/Aana_Abdella"><img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<img src="https://img.shields.io/badge/Discord-111111?style=flat-square&logo=discord&logoColor=white" alt="Discord — URL not provided" />
 <a href="mailto:aanaabdella8@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
 ---
 
-<p align="center">
-  <strong>Building today. Learning every day. Engineering for tomorrow.</strong>
-</p>
+<p align="center"><strong>Building today. Learning every day. Engineering for tomorrow.</strong></p>
