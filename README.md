@@ -72,7 +72,7 @@ Core platform functionality is documented and implemented; refinement, testing, 
 
 ### 🤖 [AI-Powered Workflow Platform](https://github.com/Aana-Abdella/AI-Powered-Workflow-Automation-Platform)
 
-<a href="https://github.com/Aana-Abdella/AI-Powered-Workflow-Automation-Platform"><img src="https://opengraph.githubassets.com/1/Aana-Abdella/AI-Powered-Workflow-Automation-Platform" alt="AI-Powered Workflow Platform repository preview" width="78%" /></a>
+<a href="https://github.com/Aana-Abdella/AI-Powered-Workflow-Automation-Platform"><img src="https://opengraph.githubassets.com/1/Aana-Abdella/AI-Powered-Workflow-Automation-Platform" alt="AI-Powered Workflow Platform repository preview" width="100%" height="400" /></a>
 
 An AI-assisted workflow platform for process orchestration, webhook-driven automation, and asynchronous task execution.
 
@@ -97,7 +97,7 @@ Core workflow execution and AI integration are documented; integration validatio
 
 ### 🪂 [Airdrop Intelligence Platform](https://github.com/Aana-Abdella/Airdrop-Intelligence-Platform)
 
-<a href="https://github.com/Aana-Abdella/Airdrop-Intelligence-Platform"><img src="https://opengraph.githubassets.com/1/Aana-Abdella/Airdrop-Intelligence-Platform" alt="Airdrop Intelligence Platform repository preview" width="78%" /></a>
+<a href="https://github.com/Aana-Abdella/Airdrop-Intelligence-Platform"><img src="https://opengraph.githubassets.com/1/Aana-Abdella/Airdrop-Intelligence-Platform" alt="Airdrop Intelligence Platform repository preview" width="100%" height="400" /></a>
 
 A FastAPI and React workspace for organizing airdrop campaigns, profiles, task progress, evidence, and status workflows.
 
@@ -122,7 +122,7 @@ The workflow foundation is documented and implemented; further intelligence, dis
 
 ### 🛒 [Ethio Gebeya](https://github.com/Aana-Abdella/Ethio-Gebeya)
 
-<a href="https://github.com/Aana-Abdella/Ethio-Gebeya"><img src="https://opengraph.githubassets.com/1/Aana-Abdella/Ethio-Gebeya" alt="Ethio Gebeya repository preview" width="78%" /></a>
+<a href="https://github.com/Aana-Abdella/Ethio-Gebeya"><img src="https://opengraph.githubassets.com/1/Aana-Abdella/Ethio-Gebeya" alt="Ethio Gebeya repository preview" width="100%" height="400" /></a>
 
 A digital commerce platform concept focused on practical multi-vendor e-commerce use cases for the Ethiopian market.
 
