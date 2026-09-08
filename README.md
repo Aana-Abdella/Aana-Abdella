@@ -1,10 +1,22 @@
-# Aanaa Abdella
-
-### Software Engineer · Full-Stack Developer · Builder
-
-👋 **Hi there — I'm Aanaa Abdella.**
-
-Building practical software across **Web3, AI, automation, and digital platforms**.
+<div align="center">
+        <table>
+                <tr>
+                        <td align="center" bgcolor="#0D1117">
+                                <br>
+                                <h1><font color="#22D3EE">AANAA ABDELLA</font></h1>
+                                <p><strong>SOFTWARE ENGINEER · FULL-STACK DEVELOPER · BUILDER</strong></p>
+                                <p><code>&gt;_ building practical software · learning deeply · shipping consistently</code></p>
+                                <br>
+                                <a href="https://aana-developer-platform.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio" /></a>
+                                <a href="https://github.com/Aana-Abdella"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" /></a>
+                                <a href="https://t.me/aani_01"><img src="https://img.shields.io/badge/TELEGRAM-111827?style=for-the-badge&logo=telegram&logoColor=22D3EE" alt="Telegram" /></a>
+                                <a href="https://twitter.com/aana_abdella"><img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=22D3EE" alt="X" /></a>
+                                <img src="https://img.shields.io/badge/DISCORD-111827?style=for-the-badge&logo=discord&logoColor=22D3EE" alt="Discord — URL not provided" />
+                                <br><br>
+                        </td>
+                </tr>
+        </table>
+</div>
 
 ---
 
