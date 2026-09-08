@@ -47,7 +47,7 @@ Every project is another step toward becoming the kind of engineer who can take 
 
 ### 🌐 [Web3 Intelligence Platform](https://github.com/Aana-Abdella/web3-intelligence-platform)
 
-<a href="https://github.com/Aana-Abdella/web3-intelligence-platform"><img src="https://opengraph.githubassets.com/1/Aana-Abdella/web3-intelligence-platform" alt="Web3 Intelligence Platform repository preview" width="78%" /></a>
+<a href="https://github.com/Aana-Abdella/web3-intelligence-platform"><img src="https://opengraph.githubassets.com/1/Aana-Abdella/web3-intelligence-platform" alt="Web3 Intelligence Platform repository preview" width="100%" height="400" /></a>
 
 A full-stack Web3 intelligence platform for wallet analytics, portfolio visibility, airdrop research, and on-chain data workflows.
 
