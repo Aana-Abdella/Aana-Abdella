@@ -30,6 +30,10 @@ I approach engineering through **deliberate learning, practical building, contin
 
 ### 🌐 [Web3 Intelligence Platform](https://github.com/Aana-Abdella/web3-intelligence-platform)
 
+<a href="https://github.com/Aana-Abdella/web3-intelligence-platform">
+        <img src="https://opengraph.githubassets.com/1/Aana-Abdella/web3-intelligence-platform" alt="Web3 Intelligence Platform repository preview" width="100%" />
+</a>
+
 A full-stack platform focused on Web3 intelligence, wallet analytics, portfolio tracking, and on-chain data.
 
 **Area**
@@ -45,6 +49,10 @@ A full-stack platform focused on Web3 intelligence, wallet analytics, portfolio 
 ---
 
 ### 🤖 [AI-Powered Workflow Platform](https://github.com/Aana-Abdella/AI-Powered-Workflow-Automation-Platform)
+
+<a href="https://github.com/Aana-Abdella/AI-Powered-Workflow-Automation-Platform">
+        <img src="https://opengraph.githubassets.com/1/Aana-Abdella/AI-Powered-Workflow-Automation-Platform" alt="AI-Powered Workflow Platform repository preview" width="100%" />
+</a>
 
 An automation platform exploring AI-assisted workflows, process orchestration, and intelligent software automation.
 
@@ -62,6 +70,10 @@ An automation platform exploring AI-assisted workflows, process orchestration, a
 
 ### 🪂 [Airdrop Intelligence Platform](https://github.com/Aana-Abdella/Airdrop-Intelligence-Platform)
 
+<a href="https://github.com/Aana-Abdella/Airdrop-Intelligence-Platform">
+        <img src="https://opengraph.githubassets.com/1/Aana-Abdella/Airdrop-Intelligence-Platform" alt="Airdrop Intelligence Platform repository preview" width="100%" />
+</a>
+
 A Web3 intelligence system focused on discovering, organizing, and working with airdrop-related information.
 
 **Area**
@@ -77,6 +89,10 @@ A Web3 intelligence system focused on discovering, organizing, and working with 
 ---
 
 ### 🛒 [Ethio Gebeya](https://github.com/Aana-Abdella/Ethio-Gebeya)
+
+<a href="https://github.com/Aana-Abdella/Ethio-Gebeya">
+        <img src="https://opengraph.githubassets.com/1/Aana-Abdella/Ethio-Gebeya" alt="Ethio Gebeya repository preview" width="100%" />
+</a>
 
 A digital commerce platform concept focused on practical e-commerce use cases for the Ethiopian market.
 
@@ -120,6 +136,7 @@ A digital commerce platform concept focused on practical e-commerce use cases fo
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-111111?style=flat-square&logo=framer&logoColor=white)
 
 ### Backend & Data
 
@@ -191,13 +208,13 @@ A practical, exercise-first repository for building Python foundations through e
 
 | Stage | Focus | Status |
 | --- | --- | --- |
-| Foundations | Variables, numbers, strings, input, and output | Documented |
-| Control flow | Conditions, decisions, and repetition | Documented |
-| Data structures | Lists, tuples, sets, and dictionaries | Documented |
-| Functions | Parameters, reusable logic, and composition | Documented |
-| Object-oriented Python | Classes, objects, methods, and encapsulation | Documented |
-| Projects | Practical applications and experiments | In progress |
-| Next steps | Modules, files, exceptions, testing, and algorithms | Planned |
+| Foundations | Variables, numbers, strings, input, and output | ✅ Documented |
+| Control flow | Conditions, decisions, and repetition | ✅ Documented |
+| Data structures | Lists, tuples, sets, and dictionaries | ✅ Documented |
+| Functions | Parameters, reusable logic, and composition | ✅ Documented |
+| Object-oriented Python | Classes, objects, methods, and encapsulation | ✅ Documented |
+| Projects | Practical applications and experiments | 🔄 In progress |
+| Next steps | Modules, files, exceptions, testing, and algorithms | ⏳ Planned |
 
 → [View Python Learning Journey](https://github.com/Aana-Abdella/python-learning-journey)
 
@@ -251,9 +268,13 @@ I believe engineering skill is built through **consistent practice, real systems
 
 ## Connect
 
-[🌐 Portfolio](https://aana-developer-platform.vercel.app/) · [GitHub](https://github.com/Aana-Abdella) · [X](https://twitter.com/aana_abdella) · [Telegram](https://t.me/aani_01) · [LinkedIn](https://www.linkedin.com/in/Aana_Abdella) · Email: [aanaabdella8@gmail.com](mailto:aanaabdella8@gmail.com)
-
-Discord — [Add Discord URL]
+<a href="https://aana-developer-platform.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/Aana-Abdella"><img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://twitter.com/aana_abdella"><img src="https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://t.me/aani_01"><img src="https://img.shields.io/badge/Telegram-111111?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://www.linkedin.com/in/Aana_Abdella"><img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<img src="https://img.shields.io/badge/Discord-111111?style=flat-square&logo=discord&logoColor=white" alt="Discord — URL not provided" />
+<a href="mailto:aanaabdella8@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
 ---
 
