@@ -5,7 +5,7 @@
         <br>
         <h1><font color="#22D3EE">AANAA ABDELLA</font></h1>
         <p><strong>SOFTWARE ENGINEER · FULL-STACK DEVELOPER · AI &amp; WEB3 BUILDER</strong></p>
-        <p><img src="./assets/code-of-destiny.png" alt="Engineering technologies including Python, Docker, AI, LLM, ML, AWS, Linux, Git, and GitHub" width="100%" /></p>
+        <p><img src="./assets/code_of_destiny.png" alt="Aanaa Abdella engineering profile: AI engineering, Python, Docker, cloud, Linux, Git, GitHub, and full-stack development" width="100%" /></p>
         <p><code>&gt;_ building practical software · learning deeply · shipping consistently</code></p>
         <br>
         <a href="https://aana-developer-platform.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio" /></a>
