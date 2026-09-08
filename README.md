@@ -297,4 +297,4 @@ A structured systems-learning portfolio covering Linux fundamentals, filesystem 
 
 ---
 
-<p align="center"><strong>Building today. Learning every day. Engineering for tomorrow.</strong></p>
+<p align="center"><strong>The goal isn't to know everything. The goal is to understand enough to build something real.</strong></p>
