@@ -26,9 +26,13 @@
 
 ## `[01] :: SYSTEM_MISSION`
 
-AI agents are becoming software collaborators. Their output needs the same rigor as any other production dependency.\n\n`PRINCIPLE:: automate carefully | validate outputs | ship reliable systems`
+AI agents are becoming software collaborators. Their output needs the same rigor as any other production dependency.
 
-I’m building a profile that makes the work easy to inspect: current systems, shipped code, and verifiable repositories.\n\n`TRACEABILITY:: ideas -> implementation -> tests -> deployment`
+`PRINCIPLE:: automate carefully | validate outputs | ship reliable systems`
+
+I’m building a profile that makes the work easy to inspect: current systems, shipped code, and verifiable repositories.
+
+`TRACEABILITY:: ideas -> implementation -> tests -> deployment`
 
 ## `[02] :: ACTIVE_BUILDS`
 
@@ -75,7 +79,9 @@ An enterprise-inspired AI workflow automation platform that enables users to bui
 
 ## `[05] :: COLLAB_PROTOCOL`
 
-COLLAB_TARGETS:: founders | engineers | AI infrastructure | open-source maintainers\n\nPROTOCOL:: solve hard problems with care, curiosity, and engineering discipline.
+COLLAB_TARGETS:: founders | engineers | AI infrastructure | open-source maintainers
+
+PROTOCOL:: solve hard problems with care, curiosity, and engineering discipline.
 
 <p align="center">
 
