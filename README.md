@@ -1,5 +1,15 @@
 <div align="center">
 
+<img src="https://gh.crafter.run/Aana-Abdella?theme=dark" width="100%" alt="Aana-Abdella's gh-ascii GitHub profile card" />
+
+<p><strong><span style="color:#ff3030">▰</span> SOFTWARE ENGINEERING · AI · FULL-STACK · WEB3 <span style="color:#ff3030">▰</span></strong></p>
+
+</div>
+
+---
+
+<div align="center">
+
 # Aanaa Abdella
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;Building+AI%2C+Web+%26+Web3+Projects;Learning+by+building+and+shipping" alt="Animated introduction: Software Engineer, Full-Stack Developer, building AI, Web and Web3 projects" />
