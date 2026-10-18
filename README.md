@@ -2,7 +2,9 @@
 
 <img src="https://gh.crafter.run/Aana-Abdella?theme=dark" width="100%" alt="Aana-Abdella's gh-ascii GitHub profile card" />
 
-<p><strong><span style="color:#ff3030">▰</span> SOFTWARE ENGINEERING · AI · FULL-STACK · WEB3 <span style="color:#ff3030">▰</span></strong></p>
+<p><code>[SYS.BOOT] [USER: AANA-ABDELLA] [MODE: ENGINEERING]</code></p>
+<p><code>STACK:: SOFTWARE | AI | FULL-STACK | WEB3</code></p>
+<p><code>STATUS:: <span style="color:#ff3030">ONLINE</span> // BUILDING SYSTEMS</code></p>
 
 </div>
 
@@ -10,31 +12,31 @@
 
 <div align="center">
 
-# `AANAA ABDELLA`
+# `AANAA_ABDELLA::`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=700&color=FF3030&center=true&vCenter=true&width=760&lines=Software+Engineer;Full-Stack+Developer;Building+AI%2C+Web+%26+Web3;Learning+by+building+and+shipping" alt="Animated introduction: Software Engineer, Full-Stack Developer, building AI, Web and Web3 projects" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1800&pause=500&color=FF3030&center=true&vCenter=true&width=800&lines=%3E%3E+INITIALIZING+DEVELOPER...;SYS%3A+SOFTWARE_ENGINEER;LOAD_MODULE%28AI%2C+WEB%2C+WEB3%29;BUILD%28%29+%7C+TEST%28%29+%7C+SHIP%28%29;STATUS%3A+LEARNING_AND_DEPLOYING" alt="Animated machine-console status: initializing developer, software engineer, loading AI Web and Web3 modules" />
 
-**`SOFTWARE ENGINEER` · `FULL-STACK` · `AI` · `WEB3`**
+**`ROLE:: SOFTWARE_ENGINEER` · `MODULES:: FULL_STACK | AI | WEB3`**
 
-<a href="https://github.com/Aana-Abdella?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-FF3030?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
-<a href="https://github.com/Aana-Abdella?tab=stars"><img src="https://img.shields.io/badge/STARS-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117" alt="Stars" /></a>
-<a href="https://github.com/Aana-Abdella"><img src="https://img.shields.io/badge/GITHUB-FF3030?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+<a href="https://github.com/Aana-Abdella?tab=repositories"><img src="https://img.shields.io/badge/REPO--INDEX-FF3030?style=for-the-badge&logo=github&logoColor=white" alt="Repository index" /></a>
+<a href="https://github.com/Aana-Abdella?tab=stars"><img src="https://img.shields.io/badge/STAR--SIGNAL-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117" alt="Star signal" /></a>
+<a href="https://github.com/Aana-Abdella"><img src="https://img.shields.io/badge/PROFILE--LINK-FF3030?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 
 </div>
 
-## `01 / THE MISSION`
+## `[01] :: SYSTEM_MISSION`
 
-AI agents are becoming software collaborators. Their output needs the same rigor as any other production dependency.
+AI agents are becoming software collaborators. Their output needs the same rigor as any other production dependency.\n\n`PRINCIPLE:: automate carefully | validate outputs | ship reliable systems`
 
-I’m building a profile that makes the work easy to understand: what I care about, what I’m shipping, and where the proof lives.
+I’m building a profile that makes the work easy to inspect: current systems, shipped code, and verifiable repositories.\n\n`TRACEABILITY:: ideas -> implementation -> tests -> deployment`
 
-## `02 / WHAT I’M BUILDING`
+## `[02] :: ACTIVE_BUILDS`
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### `01` ⚡ [web3-intelligence-platform](https://github.com/Aana-Abdella/web3-intelligence-platform)
+### `MOD_01` :: [web3-intelligence-platform](https://github.com/Aana-Abdella/web3-intelligence-platform)
 
 Enterprise-grade Web3 intelligence platform for wallet analytics, portfolio tracking, airdrop eligibility scoring, and on-chain risk analysis across multiple blockchains.
 
@@ -43,7 +45,7 @@ Enterprise-grade Web3 intelligence platform for wallet analytics, portfolio trac
 </td>
 <td width="50%" valign="top">
 
-### `02` ⚡ [AI-Powered-Workflow-Automation-Platform](https://github.com/Aana-Abdella/AI-Powered-Workflow-Automation-Platform)
+### `MOD_02` :: [AI-Powered-Workflow-Automation-Platform](https://github.com/Aana-Abdella/AI-Powered-Workflow-Automation-Platform)
 
 An enterprise-inspired AI workflow automation platform that enables users to build intelligent, event-driven workflows using visual automation, webhooks, background processing, and AI-powered task execution. Built with modern full-stack architecture, emphasizing scalability, security, and maintainability.
 
@@ -55,7 +57,7 @@ An enterprise-inspired AI workflow automation platform that enables users to bui
 
 [Explore all repositories →](https://github.com/Aana-Abdella?tab=repositories)
 
-## `03 / TECHNOLOGY ARSENAL`
+## `[03] :: STACK_MANIFEST`
 
 | Area | Technologies |
 |---|---|
@@ -63,7 +65,7 @@ An enterprise-inspired AI workflow automation platform that enables users to bui
 | Current focus | AI applications · Full-stack development · Web3 tools |
 | Project portfolio | web3-intelligence-platform · AI-Powered-Workflow-Automation-Platform · Airdrop-Intelligence-Platform |
 
-## `04 / CODING ACTIVITY`
+## `[04] :: ACTIVITY_LOG`
 
 <div align="center">
 
@@ -71,9 +73,9 @@ An enterprise-inspired AI workflow automation platform that enables users to bui
 
 </div>
 
-## `05 / LET’S BUILD USEFUL SOFTWARE`
+## `[05] :: COLLAB_PROTOCOL`
 
-I’m interested in collaborating with founders, engineers, AI infrastructure teams, and open-source maintainers working on hard problems with care and curiosity.
+COLLAB_TARGETS:: founders | engineers | AI infrastructure | open-source maintainers\n\nPROTOCOL:: solve hard problems with care, curiosity, and engineering discipline.
 
 <p align="center">
 
