@@ -1,53 +1,63 @@
-<h1 align="center">Aana Abdella</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Software Engineer</strong> &nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; AI &amp; Web3
-</p>
+<img src="https://www.gitskins.com/api/section/portrait?username=aana-abdella&theme=github-dark&style=terminal&color=1&motion=cap-tip&v=signature-cap-tip-1&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174483431%3Fu%3Da417725af53ff171d0f3f4638c6ad2e0b3e10342%26v%3D4" width="620" alt="Aanaa Abdella animated graduation portrait" />
 
-<p align="center">
-  <a href="https://aana-developer-platform.vercel.app/">Portfolio</a>
-  &nbsp; / &nbsp;
-  <a href="https://github.com/Aana-Abdella">GitHub</a>
-  &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/Aana_Abdella">LinkedIn</a>
-  &nbsp; / &nbsp;
-  <a href="mailto:aanaabdella8@gmail.com">Contact</a>
-</p>
+<h1>Aanaa Abdella</h1>
+<h3>Frontend or full-stack engineer</h3>
 
-<p align="center">🔴 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<p><a href="https://github.com/aana-abdella"><img src="https://img.shields.io/badge/FOLLOW-22d3ee?style=for-the-badge&amp;labelColor=0d1117" alt="FOLLOW" /></a> <a href="https://github.com/aana-abdella?tab=repositories"><img src="https://img.shields.io/badge/4_PUBLIC_REPOSITORIES-7c3aed?style=for-the-badge&amp;labelColor=0d1117" alt="4 PUBLIC REPOSITORIES" /></a> <img src="https://img.shields.io/badge/BUILDING-34d399?style=for-the-badge&amp;labelColor=0d1117" alt="BUILDING" /></p>
 
-### PROFILE
+<p>Software Engineer | Full-Stack Developer | Building AI, Web &amp; Web3 Applications 🚀</p>
 
-Software Engineering student focused on building useful, reliable products. I work across full-stack development, AI-assisted automation, and Web3, while growing my foundations in Python, Linux, and systems engineering.
+</div>
 
-My approach: **understand the problem → build a solution → test the details → improve it.**
+## The mission
 
-### SELECTED WORK
+AI agents are becoming software collaborators. Their output needs the same rigor as any other production dependency.
 
-| Project | Overview |
-|:--|:--|
-| **[Web3 Intelligence Platform](https://github.com/Aana-Abdella/web3-intelligence-platform)** | Wallet analytics, portfolio visibility, and airdrop research. `Next.js` `NestJS` `PostgreSQL` `Redis` `Docker` |
-| **[AI Workflow Automation](https://github.com/Aana-Abdella/AI-Powered-Workflow-Automation-Platform)** | Webhook-driven workflow orchestration with asynchronous task execution. `Next.js` `FastAPI` `PostgreSQL` `Redis` `Celery` |
-| **[Airdrop Intelligence Platform](https://github.com/Aana-Abdella/Airdrop-Intelligence-Platform)** | Campaign management, task tracking, and evidence workflows. `Python` `FastAPI` `React` `SQLite` |
-| **[Ethio Gebeya](https://github.com/Aana-Abdella/Ethio-Gebeya)** | Multi-vendor commerce platform concept for the Ethiopian market. `Next.js` `NestJS` `TypeScript` `Prisma` |
+Software Engineer | Full-Stack Developer | Building AI, Web &amp; Web3 Applications 🚀
 
-### TOOLKIT
+I’m building a profile that makes the work easy to understand: what I care about, what I’m shipping, and where the proof lives.
 
-| Area | Technologies |
-|:--|:--|
-| **Languages** | Python · TypeScript · JavaScript · Java · C++ |
-| **Frontend** | React · Next.js · HTML · CSS · Tailwind CSS |
-| **Backend & data** | Node.js · NestJS · FastAPI · Django · PostgreSQL · SQLite · Prisma · Redis |
-| **AI, automation & Web3** | OpenAI · Ollama · n8n · Viem · Wagmi |
-| **Tools** | Git · GitHub · Linux · Docker |
+## What I’m building
 
-### LEARNING IN PUBLIC
+<table width="100%">
+<tr>
+<td width="50%" valign="top"><h3>⚡ <a href="https://github.com/Aana-Abdella/web3-intelligence-platform">web3-intelligence-platform</a></h3><p>Enterprise-grade Web3 intelligence platform for wallet analytics, portfolio tracking, airdrop eligibility scoring, and on-chain risk analysis across multiple blockchains.</p><p><strong>Why it matters:</strong> a concrete proof point from aana-abdella's public work.</p><p><a href="https://github.com/Aana-Abdella/web3-intelligence-platform">Explore project →</a></p></td>
+<td width="50%" valign="top"><h3>⚡ <a href="https://github.com/Aana-Abdella/AI-Powered-Workflow-Automation-Platform">AI-Powered-Workflow-Automation-Platform</a></h3><p>An enterprise-inspired AI workflow automation platform that enables users to build intelligent, event-driven workflows using visual automation, webhooks, background processing, and AI-powered task execution. Built with modern full-stack architecture, emphasizing scalability, security, and maintainability.</p><p><strong>Why it matters:</strong> a concrete proof point from aana-abdella's public work.</p><p><a href="https://github.com/Aana-Abdella/AI-Powered-Workflow-Automation-Platform">Explore project →</a></p></td>
+</tr>
+</table>
 
-- [Python Learning Journey](https://github.com/Aana-Abdella/python-learning-journey) — hands-on practice with Python fundamentals, data structures, functions, and object-oriented programming.
-- [Linux Mastery Journey](https://github.com/Aana-Abdella/linux-mastery-journey) — structured practice in the command line, filesystems, permissions, processes, shell scripting, and networking.
+<p align="center"><a href="https://github.com/aana-abdella?tab=repositories">Explore repositories →</a> · <a href="https://github.com/aana-abdella?tab=stars">See open-source signal →</a></p>
 
-<p align="center">
-  <strong>Currently:</strong> building full-stack products and strengthening my software engineering fundamentals.
-  <br><br>
-  <code>LEARN</code> &nbsp;→&nbsp; <code>BUILD</code> &nbsp;→&nbsp; <code>IMPROVE</code>
-</p>
+## Technology arsenal
+
+<div align="center">
+
+<img src="https://www.gitskins.com/api/readme-reference/technology-stack?username=aana-abdella&theme=github-dark&logos=TypeScript%2CJavaScript%2CJava%2CPHP%2CPython%2CCSS%2CPLpgSQL%2CShell&v=signature-cap-tip-languages-3" alt="Aanaa Abdella technology stack" />
+
+</div>
+
+<table width="100%">
+<tr><td width="28%"><strong>Languages & tools</strong></td><td>TypeScript | JavaScript | Java | PHP | Python | CSS | PLpgSQL | Shell</td></tr>
+<tr><td><strong>Profile focus</strong></td><td>web3-intelligence-platform · AI-Powered-Workflow-Automation-Platform · Airdrop-Intelligence-Platform</td></tr>
+<tr><td><strong>GitHub signal</strong></td><td>16 repositories · 5 stars · 597 contributions</td></tr>
+</table>
+
+## Open-source signal
+
+<div align="center">
+
+<img src="https://www.gitskins.com/api/readme-reference/contribution-calendar?username=aana-abdella&theme=github-dark&v=signature-cap-tip-summary-1" width="620" alt="Aanaa Abdella GitHub contribution summary" />
+
+<img src="https://www.gitskins.com/api/readme-reference/character-calendar?username=aana-abdella&theme=github-dark&motion=subtle&v=signature-cap-tip-calendar-1" width="620" alt="Aanaa Abdella contribution activity" />
+
+</div>
+
+## Let’s build useful software
+
+I’m interested in collaborating with founders, engineers, AI infrastructure teams, and open-source maintainers working on hard problems with care and curiosity.
+
+<p align="center"><a href="https://github.com/aana-abdella"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GITHUB" /></a> <a href="https://github.com/aana-abdella?tab=repositories"><img src="https://img.shields.io/badge/FOLLOW_MY_WORK-0d1117?style=for-the-badge&amp;labelColor=0d1117" alt="FOLLOW MY WORK" /></a> <a href="https://github.com/aana-abdella"><img src="https://img.shields.io/badge/BUILD_WITH_ME-22d3ee?style=for-the-badge&amp;labelColor=0d1117" alt="BUILD WITH ME" /></a></p>
+
+<div align="center"><sub>Build boldly · test thoughtfully · ship safely</sub></div>
