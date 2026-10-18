@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://gh.crafter.run/Aana-Abdella?theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://gh.crafter.run/Aana-Abdella?theme=light" />
+  <img alt="Aana-Abdella's GitHub profile card" src="https://gh.crafter.run/Aana-Abdella?theme=dark" />
+</picture>
+
 <div align="center">
 
 <img src="https://www.gitskins.com/api/section/portrait?username=aana-abdella&theme=github-dark&style=terminal&color=1&motion=cap-tip&v=signature-cap-tip-1&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F174483431%3Fu%3Da417725af53ff171d0f3f4638c6ad2e0b3e10342%26v%3D4" width="620" alt="Aanaa Abdella animated graduation portrait" />
