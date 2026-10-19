@@ -30,7 +30,7 @@ AI agents are becoming software collaborators. Their output needs the same rigor
 
 `PRINCIPLE:: automate carefully | validate outputs | ship reliable systems`
 
-I’m building a profile that makes the work easy to inspect: current systems, shipped code, and verifiable repositories.
+I’m building a profile that makes the work easy to understand: what I care about, what I’m shipping, and where the proof lives.
 
 `TRACEABILITY:: ideas -> implementation -> tests -> deployment`
 
@@ -79,9 +79,9 @@ An enterprise-inspired AI workflow automation platform that enables users to bui
 
 ## `[05] :: COLLAB_PROTOCOL`
 
-COLLAB_TARGETS:: founders | engineers | AI infrastructure | open-source maintainers
+I’m interested in collaborating with founders, engineers, AI infrastructure teams, and open-source maintainers working on hard problems with care and curiosity.
 
-PROTOCOL:: solve hard problems with care, curiosity, and engineering discipline.
+`PROTOCOL:: solve hard problems with care, curiosity, and engineering discipline.`
 
 <p align="center">
 
