@@ -77,6 +77,20 @@ An enterprise-inspired AI workflow automation platform that enables users to bui
 
 </div>
 
+
+## `[06] :: ENGINEERING_SIGNAL`
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aana-Abdella&theme=github_dark" width="100%" alt="GitHub profile summary and contribution overview" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aana-Abdella&theme=github_dark" width="49%" alt="Repository language distribution" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aana-Abdella&theme=github_dark" width="49%" alt="GitHub activity statistics" />
+
+</div>
+
+`SIGNAL:: public repositories | language distribution | contribution history`
+
 ## `[05] :: COLLAB_PROTOCOL`
 
 I’m interested in collaborating with founders, engineers, AI infrastructure teams, and open-source maintainers working on hard problems with care and curiosity.
