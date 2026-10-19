@@ -14,7 +14,7 @@
 
 # `AANAA_ABDELLA::`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1800&pause=500&color=FF3030&center=true&vCenter=true&width=800&lines=%3E%3E+INITIALIZING+DEVELOPER...;SYS%3A+SOFTWARE_ENGINEER;LOAD_MODULE%28AI%2C+WEB%2C+WEB3%29;BUILD%28%29+%7C+TEST%28%29+%7C+SHIP%28%29;STATUS%3A+LEARNING_AND_DEPLOYING" alt="Animated machine-console status: initializing developer, software engineer, loading AI Web and Web3 modules" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1800&pause=500&color=FF0000&center=true&vCenter=true&width=800&lines=%3E%3E+INITIALIZING+DEVELOPER...;SYS%3A+SOFTWARE_ENGINEER;LOAD_MODULE%28AI%2C+WEB%2C+WEB3%29;BUILD%28%29+%7C+TEST%28%29+%7C+SHIP%28%29;STATUS%3A+LEARNING_AND_DEPLOYING" alt="Animated machine-console status: initializing developer, software engineer, loading AI Web and Web3 modules" />
 
 **`ROLE:: SOFTWARE_ENGINEER` · `MODULES:: FULL_STACK | AI | WEB3`**
 
@@ -73,7 +73,7 @@ An enterprise-inspired AI workflow automation platform that enables users to bui
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aana-Abdella&bg_color=0d1117&color=ffffff&line=ff3030&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aana-Abdella&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&area=true&area_color=330000&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 
 </div>
 
